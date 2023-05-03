@@ -1,48 +1,30 @@
 package com.db.trading;
 
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
+
+import java.util.HashMap;
+import java.util.Map;
 
 @Component
 public class SignalExecutorFactory {
 
-    @Autowired
-    private Algo algo;
+    private final Map<Integer, SignalExecutor> signalExecutors;
+    private final SignalFallbackExecutor signalFallbackExecutor;
+
+    private final Algo algo;
+
+    public SignalExecutorFactory(Algo algo) {
+        this.algo = algo;
+        /* Set up signal executors */
+        signalFallbackExecutor = new SignalFallbackExecutor(algo);
+        signalExecutors = new HashMap<>();
+        signalExecutors.put(1, new Signal1Executor(algo));
+        signalExecutors.put(2, new Signal2Executor(algo));
+        signalExecutors.put(3, new Signal3Executor(algo));
+    }
 
     public SignalExecutor createSignalExecutor(int signal) {
-        switch (signal) {
-            case 1:
-                return () -> {
-                    algo.setUp();
-                    algo.setAlgoParam(1, 60);
-                    algo.performCalc();
-                    algo.submitToMarket();
-                    algo.doAlgo();
-                };
-
-            case 2:
-                return () -> {
-                    algo.reverse();
-                    algo.setAlgoParam(1, 80);
-                    algo.submitToMarket();
-                    algo.doAlgo();
-                };
-
-            case 3:
-                return () -> {
-                    algo.setAlgoParam(1, 90);
-                    algo.setAlgoParam(2, 15);
-                    algo.performCalc();
-                    algo.submitToMarket();
-                    algo.doAlgo();
-                };
-
-            default:
-                return () -> {
-                    algo.cancelTrades();
-                    algo.doAlgo();
-                };
-        }
+        return signalExecutors.getOrDefault(signal, signalFallbackExecutor);
     }
 
 }

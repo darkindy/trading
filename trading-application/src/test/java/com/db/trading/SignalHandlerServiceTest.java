@@ -1,20 +1,19 @@
 package com.db.trading;
 
 import org.junit.jupiter.api.Test;
-import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.InOrder;
-import org.mockito.InjectMocks;
-import org.mockito.Mock;
 import org.mockito.Mockito;
-import org.mockito.junit.jupiter.MockitoExtension;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.boot.test.mock.mockito.MockBean;
 
-@ExtendWith(MockitoExtension.class)
+@SpringBootTest
 public class SignalHandlerServiceTest {
 
-    @Mock
+    @MockBean
     Algo algo;
 
-    @InjectMocks
+    @Autowired
     private SignalHandlerService signalHandlerService;
 
     @Test
