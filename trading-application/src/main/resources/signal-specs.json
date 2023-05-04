@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,60)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 2,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,80)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 3,
+    "actions": [
+      "setAlgoParam(1,90)",
+      "setAlgoParam(2,15)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  }
+]

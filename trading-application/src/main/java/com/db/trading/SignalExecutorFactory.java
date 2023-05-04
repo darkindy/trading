@@ -1,30 +1,57 @@
 package com.db.trading;
 
+import com.fasterxml.jackson.core.type.TypeReference;
+import com.fasterxml.jackson.databind.ObjectMapper;
+import lombok.extern.slf4j.Slf4j;
+import org.springframework.core.io.Resource;
+import org.springframework.core.io.ResourceLoader;
 import org.springframework.stereotype.Component;
 
+import java.io.IOException;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 
+@Slf4j
 @Component
 public class SignalExecutorFactory {
 
-    private final Map<Integer, SignalExecutor> signalExecutors;
-    private final SignalFallbackExecutor signalFallbackExecutor;
-
     private final Algo algo;
+    private final ObjectMapper objectMapper;
+    private final ResourceLoader resourceLoader;
 
-    public SignalExecutorFactory(Algo algo) {
+    private final Map<Integer, SignalSpec> signalSpecs;
+
+    public SignalExecutorFactory(Algo algo, ObjectMapper objectMapper, ResourceLoader resourceLoader) {
         this.algo = algo;
-        /* Set up signal executors */
-        signalFallbackExecutor = new SignalFallbackExecutor(algo);
-        signalExecutors = new HashMap<>();
-        signalExecutors.put(1, new Signal1Executor(algo));
-        signalExecutors.put(2, new Signal2Executor(algo));
-        signalExecutors.put(3, new Signal3Executor(algo));
+        this.objectMapper = objectMapper;
+        this.resourceLoader = resourceLoader;
+        signalSpecs = readSignalSpecsJson();
     }
 
     public SignalExecutor createSignalExecutor(int signal) {
-        return signalExecutors.getOrDefault(signal, signalFallbackExecutor);
+        if (signalSpecs.containsKey(signal)) {
+            return new SignalSpecExecutor(signalSpecs.get(signal), algo);
+        }
+        /* Custom-implementation signal executors can be armed here */
+        log.warn("Unknown signal: {}. Executing fallback signal.", signal);
+        return new SignalFallbackExecutor(algo);
+    }
+
+    private Map<Integer, SignalSpec> readSignalSpecsJson() {
+        try {
+            Resource resource = resourceLoader.getResource("classpath:signal-specs.json");
+            Map<Integer, SignalSpec> specsBySignalId = new HashMap<>();
+            List<SignalSpec> signalSpecs = objectMapper.readValue(resource.getInputStream(), new TypeReference<>() {
+            });
+            for (SignalSpec signalSpec : signalSpecs) {
+                specsBySignalId.put(signalSpec.getId(), signalSpec);
+                log.info("Configuring signal {} spec actions: {}", signalSpec.getId(), signalSpec.getActions());
+            }
+            return specsBySignalId;
+        } catch (IOException e) {
+            throw new RuntimeException(e);
+        }
     }
 
 }

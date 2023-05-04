@@ -10,7 +10,7 @@ public class TradingApplication {
     public static void main(String[] args) {
         ConfigurableApplicationContext applicationContext = SpringApplication.run(TradingApplication.class, args);
         SignalHandler signalHandler = applicationContext.getBean(SignalHandler.class);
-        signalHandler.handleSignal(1); /* First try calling the algorithm */
+        signalHandler.handleSignal(3); /* First try calling the algorithm */
         applicationContext.close();
     }
 
