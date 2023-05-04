@@ -28,7 +28,7 @@ To get started with the Trading Application, follow these steps:
 
 The Trading Application has a single HTTP endpoint that can receive a signal. The signal is passed through the
 SignalHandler interface and onto the application. To send a signal, make a POST request
-to `http://localhost:8080/signals` with an integer value in the request body.
+to `http://localhost:8080/api/signals/{id}` with an integer value specifying the signal id.
 
 ## Conclusion
 
