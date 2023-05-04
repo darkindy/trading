@@ -36,7 +36,7 @@ public class SignalSpecExecutor implements SignalExecutor {
                             .map(Supplier::get)
                             .filter(Objects::nonNull)
                             .findAny()
-                            .orElseThrow(() -> new RuntimeException("Invalid action in signal " + signalSpec.getId() + " spec: " + action));
+                            .orElseThrow(() -> new IllegalStateException("Invalid action in signal " + signalSpec.getId() + " spec: " + action));
                     actions.add(actionRunnable);
                 }
             }

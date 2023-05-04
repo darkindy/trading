@@ -3,6 +3,8 @@ package com.db.trading;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import lombok.extern.slf4j.Slf4j;
+import org.springframework.beans.factory.annotation.Qualifier;
+import org.springframework.context.annotation.Lazy;
 import org.springframework.core.io.Resource;
 import org.springframework.core.io.ResourceLoader;
 import org.springframework.stereotype.Component;
@@ -15,27 +17,41 @@ import java.util.Map;
 @Slf4j
 @Component
 public class SignalExecutorFactory {
+    private final Map<Integer, SignalExecutor> signalExecutorSingletons = new HashMap<>();
 
     private final Algo algo;
     private final ObjectMapper objectMapper;
     private final ResourceLoader resourceLoader;
+    private final SignalExecutor fallbackExecutor;
 
     private final Map<Integer, SignalSpec> signalSpecs;
 
-    public SignalExecutorFactory(Algo algo, ObjectMapper objectMapper, ResourceLoader resourceLoader) {
+    public SignalExecutorFactory(@Lazy Algo algo, @Lazy @Qualifier("signalFallbackExecutor") SignalExecutor fallbackExecutor,
+                                 ObjectMapper objectMapper, ResourceLoader resourceLoader) {
         this.algo = algo;
+        this.fallbackExecutor = fallbackExecutor;
         this.objectMapper = objectMapper;
         this.resourceLoader = resourceLoader;
         signalSpecs = readSignalSpecsJson();
     }
 
-    public SignalExecutor createSignalExecutor(int signal) {
+    public SignalExecutor getSignalExecutor(int signal) {
+        if (signalExecutorSingletons.containsKey(signal)) {
+            return signalExecutorSingletons.get(signal);
+        } else {
+            SignalExecutor singletonInstance = createSignalExecutor(signal);
+            signalExecutorSingletons.put(signal, singletonInstance);
+            return singletonInstance;
+        }
+    }
+
+    private SignalExecutor createSignalExecutor(int signal) {
         if (signalSpecs.containsKey(signal)) {
             return new SignalSpecExecutor(signalSpecs.get(signal), algo);
         }
         /* Custom-implementation signal executors can be armed here */
-        log.warn("Unknown signal: {}. Executing fallback signal.", signal);
-        return new SignalFallbackExecutor(algo);
+        log.warn("Configuring fallback executor for unknown signal: {}", signal);
+        return fallbackExecutor;
     }
 
     private Map<Integer, SignalSpec> readSignalSpecsJson() {
@@ -50,7 +66,7 @@ public class SignalExecutorFactory {
             }
             return specsBySignalId;
         } catch (IOException e) {
-            throw new RuntimeException(e);
+            throw new IllegalStateException("Error occurred while loading signal-specs JSON", e);
         }
     }
 
