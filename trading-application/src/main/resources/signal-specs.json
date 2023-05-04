@@ -24,5 +24,10839 @@
       "performCalc",
       "submitToMarket"
     ]
+  },
+  {
+    "id": 4,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,10)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 5,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,25)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 6,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,35)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 7,
+    "actions": [
+      "setAlgoParam(1,45)",
+      "setAlgoParam(2,10)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 8,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "setAlgoParam(2,5)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 9,
+    "actions": [
+      "setAlgoParam(1,75)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 10,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,20)",
+      "setAlgoParam(2,5)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 11,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 12,
+    "actions": [
+      "setAlgoParam(1,35)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 13,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,95)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 14,
+    "actions": [
+      "setAlgoParam(1,25)",
+      "submitToMarket",
+      "reverse",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 15,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,5)"
+    ]
+  },
+  {
+    "id": 16,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,80)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 17,
+    "actions": [
+      "setUp",
+      "submitToMarket",
+      "setAlgoParam(1,20)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 18,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "submitToMarket",
+      "reverse",
+      "performCalc",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 19,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,70)",
+      "setAlgoParam(2,10)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 20,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,15)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 21,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,60)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 22,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,80)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 23,
+    "actions": [
+      "setAlgoParam(1,90)",
+      "setAlgoParam(2,15)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 24,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,10)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 25,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,25)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 26,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,35)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 27,
+    "actions": [
+      "setAlgoParam(1,45)",
+      "setAlgoParam(2,10)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 28,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "setAlgoParam(2,5)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 29,
+    "actions": [
+      "setAlgoParam(1,75)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 30,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,20)",
+      "setAlgoParam(2,5)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 31,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 32,
+    "actions": [
+      "setAlgoParam(1,35)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 33,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,95)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 34,
+    "actions": [
+      "setAlgoParam(1,25)",
+      "submitToMarket",
+      "reverse",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 35,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,5)"
+    ]
+  },
+  {
+    "id": 36,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,80)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 37,
+    "actions": [
+      "setUp",
+      "submitToMarket",
+      "setAlgoParam(1,20)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 38,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "submitToMarket",
+      "reverse",
+      "performCalc",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 39,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,70)",
+      "setAlgoParam(2,10)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 40,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,15)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 41,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,60)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 42,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,80)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 43,
+    "actions": [
+      "setAlgoParam(1,90)",
+      "setAlgoParam(2,15)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 44,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,10)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 45,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,25)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 46,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,35)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 47,
+    "actions": [
+      "setAlgoParam(1,45)",
+      "setAlgoParam(2,10)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 48,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "setAlgoParam(2,5)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 49,
+    "actions": [
+      "setAlgoParam(1,75)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 50,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,20)",
+      "setAlgoParam(2,5)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 51,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 52,
+    "actions": [
+      "setAlgoParam(1,35)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 53,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,95)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 54,
+    "actions": [
+      "setAlgoParam(1,25)",
+      "submitToMarket",
+      "reverse",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 55,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,5)"
+    ]
+  },
+  {
+    "id": 56,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,80)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 57,
+    "actions": [
+      "setUp",
+      "submitToMarket",
+      "setAlgoParam(1,20)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 58,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "submitToMarket",
+      "reverse",
+      "performCalc",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 59,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,70)",
+      "setAlgoParam(2,10)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 60,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,15)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 61,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,60)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 62,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,80)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 63,
+    "actions": [
+      "setAlgoParam(1,90)",
+      "setAlgoParam(2,15)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 64,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,10)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 65,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,25)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 66,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,35)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 67,
+    "actions": [
+      "setAlgoParam(1,45)",
+      "setAlgoParam(2,10)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 68,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "setAlgoParam(2,5)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 69,
+    "actions": [
+      "setAlgoParam(1,75)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 70,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,20)",
+      "setAlgoParam(2,5)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 71,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 72,
+    "actions": [
+      "setAlgoParam(1,35)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 73,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,95)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 74,
+    "actions": [
+      "setAlgoParam(1,25)",
+      "submitToMarket",
+      "reverse",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 75,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,5)"
+    ]
+  },
+  {
+    "id": 76,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,80)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 77,
+    "actions": [
+      "setUp",
+      "submitToMarket",
+      "setAlgoParam(1,20)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 78,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "submitToMarket",
+      "reverse",
+      "performCalc",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 79,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,70)",
+      "setAlgoParam(2,10)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 80,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,15)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 81,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,60)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 82,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,80)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 83,
+    "actions": [
+      "setAlgoParam(1,90)",
+      "setAlgoParam(2,15)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 84,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,10)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 85,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,25)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 86,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,35)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 87,
+    "actions": [
+      "setAlgoParam(1,45)",
+      "setAlgoParam(2,10)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 88,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "setAlgoParam(2,5)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 89,
+    "actions": [
+      "setAlgoParam(1,75)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 90,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,20)",
+      "setAlgoParam(2,5)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 91,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 92,
+    "actions": [
+      "setAlgoParam(1,35)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 93,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,95)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 94,
+    "actions": [
+      "setAlgoParam(1,25)",
+      "submitToMarket",
+      "reverse",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 95,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,5)"
+    ]
+  },
+  {
+    "id": 96,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,80)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 97,
+    "actions": [
+      "setUp",
+      "submitToMarket",
+      "setAlgoParam(1,20)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 98,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "submitToMarket",
+      "reverse",
+      "performCalc",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 99,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,70)",
+      "setAlgoParam(2,10)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 100,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,15)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 101,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,60)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 102,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,80)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 103,
+    "actions": [
+      "setAlgoParam(1,90)",
+      "setAlgoParam(2,15)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 104,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,10)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 105,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,25)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 106,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,35)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 107,
+    "actions": [
+      "setAlgoParam(1,45)",
+      "setAlgoParam(2,10)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 108,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "setAlgoParam(2,5)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 109,
+    "actions": [
+      "setAlgoParam(1,75)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 110,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,20)",
+      "setAlgoParam(2,5)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 111,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 112,
+    "actions": [
+      "setAlgoParam(1,35)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 113,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,95)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 114,
+    "actions": [
+      "setAlgoParam(1,25)",
+      "submitToMarket",
+      "reverse",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 115,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,5)"
+    ]
+  },
+  {
+    "id": 116,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,80)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 117,
+    "actions": [
+      "setUp",
+      "submitToMarket",
+      "setAlgoParam(1,20)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 118,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "submitToMarket",
+      "reverse",
+      "performCalc",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 119,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,70)",
+      "setAlgoParam(2,10)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 120,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,15)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 121,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,60)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 122,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,80)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 123,
+    "actions": [
+      "setAlgoParam(1,90)",
+      "setAlgoParam(2,15)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 124,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,10)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 125,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,25)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 126,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,35)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 127,
+    "actions": [
+      "setAlgoParam(1,45)",
+      "setAlgoParam(2,10)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 128,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "setAlgoParam(2,5)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 129,
+    "actions": [
+      "setAlgoParam(1,75)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 130,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,20)",
+      "setAlgoParam(2,5)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 131,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 132,
+    "actions": [
+      "setAlgoParam(1,35)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 133,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,95)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 134,
+    "actions": [
+      "setAlgoParam(1,25)",
+      "submitToMarket",
+      "reverse",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 135,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,5)"
+    ]
+  },
+  {
+    "id": 136,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,80)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 137,
+    "actions": [
+      "setUp",
+      "submitToMarket",
+      "setAlgoParam(1,20)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 138,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "submitToMarket",
+      "reverse",
+      "performCalc",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 139,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,70)",
+      "setAlgoParam(2,10)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 140,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,15)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 141,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,60)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 142,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,80)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 143,
+    "actions": [
+      "setAlgoParam(1,90)",
+      "setAlgoParam(2,15)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 144,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,10)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 145,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,25)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 146,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,35)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 147,
+    "actions": [
+      "setAlgoParam(1,45)",
+      "setAlgoParam(2,10)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 148,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "setAlgoParam(2,5)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 149,
+    "actions": [
+      "setAlgoParam(1,75)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 150,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,20)",
+      "setAlgoParam(2,5)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 151,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 152,
+    "actions": [
+      "setAlgoParam(1,35)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 153,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,95)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 154,
+    "actions": [
+      "setAlgoParam(1,25)",
+      "submitToMarket",
+      "reverse",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 155,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,5)"
+    ]
+  },
+  {
+    "id": 156,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,80)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 157,
+    "actions": [
+      "setUp",
+      "submitToMarket",
+      "setAlgoParam(1,20)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 158,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "submitToMarket",
+      "reverse",
+      "performCalc",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 159,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,70)",
+      "setAlgoParam(2,10)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 160,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,15)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 161,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,60)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 162,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,80)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 163,
+    "actions": [
+      "setAlgoParam(1,90)",
+      "setAlgoParam(2,15)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 164,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,10)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 165,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,25)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 166,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,35)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 167,
+    "actions": [
+      "setAlgoParam(1,45)",
+      "setAlgoParam(2,10)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 168,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "setAlgoParam(2,5)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 169,
+    "actions": [
+      "setAlgoParam(1,75)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 170,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,20)",
+      "setAlgoParam(2,5)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 171,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 172,
+    "actions": [
+      "setAlgoParam(1,35)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 173,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,95)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 174,
+    "actions": [
+      "setAlgoParam(1,25)",
+      "submitToMarket",
+      "reverse",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 175,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,5)"
+    ]
+  },
+  {
+    "id": 176,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,80)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 177,
+    "actions": [
+      "setUp",
+      "submitToMarket",
+      "setAlgoParam(1,20)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 178,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "submitToMarket",
+      "reverse",
+      "performCalc",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 179,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,70)",
+      "setAlgoParam(2,10)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 180,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,15)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 181,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,60)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 182,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,80)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 183,
+    "actions": [
+      "setAlgoParam(1,90)",
+      "setAlgoParam(2,15)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 184,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,10)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 185,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,25)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 186,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,35)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 187,
+    "actions": [
+      "setAlgoParam(1,45)",
+      "setAlgoParam(2,10)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 188,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "setAlgoParam(2,5)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 189,
+    "actions": [
+      "setAlgoParam(1,75)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 190,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,20)",
+      "setAlgoParam(2,5)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 191,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 192,
+    "actions": [
+      "setAlgoParam(1,35)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 193,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,95)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 194,
+    "actions": [
+      "setAlgoParam(1,25)",
+      "submitToMarket",
+      "reverse",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 195,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,5)"
+    ]
+  },
+  {
+    "id": 196,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,80)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 197,
+    "actions": [
+      "setUp",
+      "submitToMarket",
+      "setAlgoParam(1,20)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 198,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "submitToMarket",
+      "reverse",
+      "performCalc",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 199,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,70)",
+      "setAlgoParam(2,10)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 200,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,15)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 201,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,60)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 202,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,80)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 203,
+    "actions": [
+      "setAlgoParam(1,90)",
+      "setAlgoParam(2,15)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 204,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,10)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 205,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,25)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 206,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,35)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 207,
+    "actions": [
+      "setAlgoParam(1,45)",
+      "setAlgoParam(2,10)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 208,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "setAlgoParam(2,5)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 209,
+    "actions": [
+      "setAlgoParam(1,75)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 210,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,20)",
+      "setAlgoParam(2,5)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 211,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 212,
+    "actions": [
+      "setAlgoParam(1,35)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 213,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,95)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 214,
+    "actions": [
+      "setAlgoParam(1,25)",
+      "submitToMarket",
+      "reverse",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 215,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,5)"
+    ]
+  },
+  {
+    "id": 216,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,80)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 217,
+    "actions": [
+      "setUp",
+      "submitToMarket",
+      "setAlgoParam(1,20)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 218,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "submitToMarket",
+      "reverse",
+      "performCalc",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 219,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,70)",
+      "setAlgoParam(2,10)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 220,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,15)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 221,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,60)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 222,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,80)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 223,
+    "actions": [
+      "setAlgoParam(1,90)",
+      "setAlgoParam(2,15)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 224,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,10)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 225,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,25)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 226,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,35)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 227,
+    "actions": [
+      "setAlgoParam(1,45)",
+      "setAlgoParam(2,10)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 228,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "setAlgoParam(2,5)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 229,
+    "actions": [
+      "setAlgoParam(1,75)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 230,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,20)",
+      "setAlgoParam(2,5)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 231,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 232,
+    "actions": [
+      "setAlgoParam(1,35)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 233,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,95)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 234,
+    "actions": [
+      "setAlgoParam(1,25)",
+      "submitToMarket",
+      "reverse",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 235,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,5)"
+    ]
+  },
+  {
+    "id": 236,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,80)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 237,
+    "actions": [
+      "setUp",
+      "submitToMarket",
+      "setAlgoParam(1,20)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 238,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "submitToMarket",
+      "reverse",
+      "performCalc",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 239,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,70)",
+      "setAlgoParam(2,10)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 240,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,15)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 241,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,60)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 242,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,80)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 243,
+    "actions": [
+      "setAlgoParam(1,90)",
+      "setAlgoParam(2,15)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 244,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,10)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 245,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,25)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 246,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,35)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 247,
+    "actions": [
+      "setAlgoParam(1,45)",
+      "setAlgoParam(2,10)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 248,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "setAlgoParam(2,5)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 249,
+    "actions": [
+      "setAlgoParam(1,75)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 250,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,20)",
+      "setAlgoParam(2,5)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 251,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 252,
+    "actions": [
+      "setAlgoParam(1,35)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 253,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,95)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 254,
+    "actions": [
+      "setAlgoParam(1,25)",
+      "submitToMarket",
+      "reverse",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 255,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,5)"
+    ]
+  },
+  {
+    "id": 256,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,80)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 257,
+    "actions": [
+      "setUp",
+      "submitToMarket",
+      "setAlgoParam(1,20)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 258,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "submitToMarket",
+      "reverse",
+      "performCalc",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 259,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,70)",
+      "setAlgoParam(2,10)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 260,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,15)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 261,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,60)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 262,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,80)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 263,
+    "actions": [
+      "setAlgoParam(1,90)",
+      "setAlgoParam(2,15)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 264,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,10)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 265,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,25)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 266,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,35)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 267,
+    "actions": [
+      "setAlgoParam(1,45)",
+      "setAlgoParam(2,10)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 268,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "setAlgoParam(2,5)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 269,
+    "actions": [
+      "setAlgoParam(1,75)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 270,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,20)",
+      "setAlgoParam(2,5)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 271,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 272,
+    "actions": [
+      "setAlgoParam(1,35)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 273,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,95)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 274,
+    "actions": [
+      "setAlgoParam(1,25)",
+      "submitToMarket",
+      "reverse",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 275,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,5)"
+    ]
+  },
+  {
+    "id": 276,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,80)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 277,
+    "actions": [
+      "setUp",
+      "submitToMarket",
+      "setAlgoParam(1,20)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 278,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "submitToMarket",
+      "reverse",
+      "performCalc",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 279,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,70)",
+      "setAlgoParam(2,10)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 280,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,15)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 281,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,60)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 282,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,80)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 283,
+    "actions": [
+      "setAlgoParam(1,90)",
+      "setAlgoParam(2,15)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 284,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,10)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 285,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,25)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 286,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,35)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 287,
+    "actions": [
+      "setAlgoParam(1,45)",
+      "setAlgoParam(2,10)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 288,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "setAlgoParam(2,5)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 289,
+    "actions": [
+      "setAlgoParam(1,75)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 290,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,20)",
+      "setAlgoParam(2,5)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 291,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 292,
+    "actions": [
+      "setAlgoParam(1,35)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 293,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,95)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 294,
+    "actions": [
+      "setAlgoParam(1,25)",
+      "submitToMarket",
+      "reverse",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 295,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,5)"
+    ]
+  },
+  {
+    "id": 296,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,80)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 297,
+    "actions": [
+      "setUp",
+      "submitToMarket",
+      "setAlgoParam(1,20)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 298,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "submitToMarket",
+      "reverse",
+      "performCalc",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 299,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,70)",
+      "setAlgoParam(2,10)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 300,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,15)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 301,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,60)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 302,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,80)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 303,
+    "actions": [
+      "setAlgoParam(1,90)",
+      "setAlgoParam(2,15)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 304,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,10)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 305,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,25)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 306,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,35)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 307,
+    "actions": [
+      "setAlgoParam(1,45)",
+      "setAlgoParam(2,10)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 308,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "setAlgoParam(2,5)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 309,
+    "actions": [
+      "setAlgoParam(1,75)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 310,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,20)",
+      "setAlgoParam(2,5)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 311,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 312,
+    "actions": [
+      "setAlgoParam(1,35)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 313,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,95)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 314,
+    "actions": [
+      "setAlgoParam(1,25)",
+      "submitToMarket",
+      "reverse",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 315,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,5)"
+    ]
+  },
+  {
+    "id": 316,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,80)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 317,
+    "actions": [
+      "setUp",
+      "submitToMarket",
+      "setAlgoParam(1,20)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 318,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "submitToMarket",
+      "reverse",
+      "performCalc",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 319,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,70)",
+      "setAlgoParam(2,10)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 320,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,15)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 321,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,60)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 322,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,80)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 323,
+    "actions": [
+      "setAlgoParam(1,90)",
+      "setAlgoParam(2,15)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 324,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,10)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 325,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,25)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 326,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,35)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 327,
+    "actions": [
+      "setAlgoParam(1,45)",
+      "setAlgoParam(2,10)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 328,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "setAlgoParam(2,5)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 329,
+    "actions": [
+      "setAlgoParam(1,75)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 330,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,20)",
+      "setAlgoParam(2,5)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 331,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 332,
+    "actions": [
+      "setAlgoParam(1,35)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 333,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,95)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 334,
+    "actions": [
+      "setAlgoParam(1,25)",
+      "submitToMarket",
+      "reverse",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 335,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,5)"
+    ]
+  },
+  {
+    "id": 336,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,80)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 337,
+    "actions": [
+      "setUp",
+      "submitToMarket",
+      "setAlgoParam(1,20)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 338,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "submitToMarket",
+      "reverse",
+      "performCalc",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 339,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,70)",
+      "setAlgoParam(2,10)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 340,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,15)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 341,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,60)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 342,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,80)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 343,
+    "actions": [
+      "setAlgoParam(1,90)",
+      "setAlgoParam(2,15)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 344,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,10)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 345,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,25)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 346,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,35)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 347,
+    "actions": [
+      "setAlgoParam(1,45)",
+      "setAlgoParam(2,10)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 348,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "setAlgoParam(2,5)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 349,
+    "actions": [
+      "setAlgoParam(1,75)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 350,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,20)",
+      "setAlgoParam(2,5)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 351,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 352,
+    "actions": [
+      "setAlgoParam(1,35)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 353,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,95)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 354,
+    "actions": [
+      "setAlgoParam(1,25)",
+      "submitToMarket",
+      "reverse",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 355,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,5)"
+    ]
+  },
+  {
+    "id": 356,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,80)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 357,
+    "actions": [
+      "setUp",
+      "submitToMarket",
+      "setAlgoParam(1,20)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 358,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "submitToMarket",
+      "reverse",
+      "performCalc",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 359,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,70)",
+      "setAlgoParam(2,10)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 360,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,15)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 361,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,60)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 362,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,80)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 363,
+    "actions": [
+      "setAlgoParam(1,90)",
+      "setAlgoParam(2,15)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 364,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,10)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 365,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,25)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 366,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,35)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 367,
+    "actions": [
+      "setAlgoParam(1,45)",
+      "setAlgoParam(2,10)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 368,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "setAlgoParam(2,5)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 369,
+    "actions": [
+      "setAlgoParam(1,75)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 370,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,20)",
+      "setAlgoParam(2,5)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 371,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 372,
+    "actions": [
+      "setAlgoParam(1,35)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 373,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,95)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 374,
+    "actions": [
+      "setAlgoParam(1,25)",
+      "submitToMarket",
+      "reverse",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 375,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,5)"
+    ]
+  },
+  {
+    "id": 376,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,80)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 377,
+    "actions": [
+      "setUp",
+      "submitToMarket",
+      "setAlgoParam(1,20)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 378,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "submitToMarket",
+      "reverse",
+      "performCalc",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 379,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,70)",
+      "setAlgoParam(2,10)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 380,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,15)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 381,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,60)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 382,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,80)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 383,
+    "actions": [
+      "setAlgoParam(1,90)",
+      "setAlgoParam(2,15)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 384,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,10)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 385,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,25)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 386,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,35)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 387,
+    "actions": [
+      "setAlgoParam(1,45)",
+      "setAlgoParam(2,10)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 388,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "setAlgoParam(2,5)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 389,
+    "actions": [
+      "setAlgoParam(1,75)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 390,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,20)",
+      "setAlgoParam(2,5)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 391,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 392,
+    "actions": [
+      "setAlgoParam(1,35)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 393,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,95)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 394,
+    "actions": [
+      "setAlgoParam(1,25)",
+      "submitToMarket",
+      "reverse",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 395,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,5)"
+    ]
+  },
+  {
+    "id": 396,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,80)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 397,
+    "actions": [
+      "setUp",
+      "submitToMarket",
+      "setAlgoParam(1,20)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 398,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "submitToMarket",
+      "reverse",
+      "performCalc",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 399,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,70)",
+      "setAlgoParam(2,10)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 400,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,15)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 401,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,60)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 402,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,80)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 403,
+    "actions": [
+      "setAlgoParam(1,90)",
+      "setAlgoParam(2,15)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 404,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,10)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 405,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,25)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 406,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,35)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 407,
+    "actions": [
+      "setAlgoParam(1,45)",
+      "setAlgoParam(2,10)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 408,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "setAlgoParam(2,5)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 409,
+    "actions": [
+      "setAlgoParam(1,75)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 410,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,20)",
+      "setAlgoParam(2,5)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 411,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 412,
+    "actions": [
+      "setAlgoParam(1,35)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 413,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,95)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 414,
+    "actions": [
+      "setAlgoParam(1,25)",
+      "submitToMarket",
+      "reverse",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 415,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,5)"
+    ]
+  },
+  {
+    "id": 416,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,80)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 417,
+    "actions": [
+      "setUp",
+      "submitToMarket",
+      "setAlgoParam(1,20)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 418,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "submitToMarket",
+      "reverse",
+      "performCalc",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 419,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,70)",
+      "setAlgoParam(2,10)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 420,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,15)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 421,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,60)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 422,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,80)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 423,
+    "actions": [
+      "setAlgoParam(1,90)",
+      "setAlgoParam(2,15)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 424,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,10)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 425,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,25)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 426,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,35)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 427,
+    "actions": [
+      "setAlgoParam(1,45)",
+      "setAlgoParam(2,10)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 428,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "setAlgoParam(2,5)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 429,
+    "actions": [
+      "setAlgoParam(1,75)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 430,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,20)",
+      "setAlgoParam(2,5)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 431,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 432,
+    "actions": [
+      "setAlgoParam(1,35)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 433,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,95)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 434,
+    "actions": [
+      "setAlgoParam(1,25)",
+      "submitToMarket",
+      "reverse",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 435,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,5)"
+    ]
+  },
+  {
+    "id": 436,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,80)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 437,
+    "actions": [
+      "setUp",
+      "submitToMarket",
+      "setAlgoParam(1,20)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 438,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "submitToMarket",
+      "reverse",
+      "performCalc",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 439,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,70)",
+      "setAlgoParam(2,10)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 440,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,15)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 441,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,60)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 442,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,80)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 443,
+    "actions": [
+      "setAlgoParam(1,90)",
+      "setAlgoParam(2,15)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 444,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,10)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 445,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,25)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 446,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,35)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 447,
+    "actions": [
+      "setAlgoParam(1,45)",
+      "setAlgoParam(2,10)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 448,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "setAlgoParam(2,5)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 449,
+    "actions": [
+      "setAlgoParam(1,75)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 450,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,20)",
+      "setAlgoParam(2,5)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 451,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 452,
+    "actions": [
+      "setAlgoParam(1,35)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 453,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,95)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 454,
+    "actions": [
+      "setAlgoParam(1,25)",
+      "submitToMarket",
+      "reverse",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 455,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,5)"
+    ]
+  },
+  {
+    "id": 456,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,80)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 457,
+    "actions": [
+      "setUp",
+      "submitToMarket",
+      "setAlgoParam(1,20)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 458,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "submitToMarket",
+      "reverse",
+      "performCalc",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 459,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,70)",
+      "setAlgoParam(2,10)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 460,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,15)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 461,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,60)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 462,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,80)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 463,
+    "actions": [
+      "setAlgoParam(1,90)",
+      "setAlgoParam(2,15)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 464,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,10)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 465,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,25)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 466,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,35)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 467,
+    "actions": [
+      "setAlgoParam(1,45)",
+      "setAlgoParam(2,10)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 468,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "setAlgoParam(2,5)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 469,
+    "actions": [
+      "setAlgoParam(1,75)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 470,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,20)",
+      "setAlgoParam(2,5)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 471,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 472,
+    "actions": [
+      "setAlgoParam(1,35)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 473,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,95)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 474,
+    "actions": [
+      "setAlgoParam(1,25)",
+      "submitToMarket",
+      "reverse",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 475,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,5)"
+    ]
+  },
+  {
+    "id": 476,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,80)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 477,
+    "actions": [
+      "setUp",
+      "submitToMarket",
+      "setAlgoParam(1,20)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 478,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "submitToMarket",
+      "reverse",
+      "performCalc",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 479,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,70)",
+      "setAlgoParam(2,10)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 480,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,15)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 481,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,60)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 482,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,80)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 483,
+    "actions": [
+      "setAlgoParam(1,90)",
+      "setAlgoParam(2,15)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 484,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,10)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 485,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,25)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 486,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,35)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 487,
+    "actions": [
+      "setAlgoParam(1,45)",
+      "setAlgoParam(2,10)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 488,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "setAlgoParam(2,5)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 489,
+    "actions": [
+      "setAlgoParam(1,75)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 490,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,20)",
+      "setAlgoParam(2,5)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 491,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 492,
+    "actions": [
+      "setAlgoParam(1,35)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 493,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,95)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 494,
+    "actions": [
+      "setAlgoParam(1,25)",
+      "submitToMarket",
+      "reverse",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 495,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,5)"
+    ]
+  },
+  {
+    "id": 496,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,80)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 497,
+    "actions": [
+      "setUp",
+      "submitToMarket",
+      "setAlgoParam(1,20)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 498,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "submitToMarket",
+      "reverse",
+      "performCalc",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 499,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,70)",
+      "setAlgoParam(2,10)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 500,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,15)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 501,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,60)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 502,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,80)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 503,
+    "actions": [
+      "setAlgoParam(1,90)",
+      "setAlgoParam(2,15)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 504,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,10)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 505,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,25)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 506,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,35)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 507,
+    "actions": [
+      "setAlgoParam(1,45)",
+      "setAlgoParam(2,10)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 508,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "setAlgoParam(2,5)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 509,
+    "actions": [
+      "setAlgoParam(1,75)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 510,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,20)",
+      "setAlgoParam(2,5)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 511,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 512,
+    "actions": [
+      "setAlgoParam(1,35)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 513,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,95)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 514,
+    "actions": [
+      "setAlgoParam(1,25)",
+      "submitToMarket",
+      "reverse",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 515,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,5)"
+    ]
+  },
+  {
+    "id": 516,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,80)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 517,
+    "actions": [
+      "setUp",
+      "submitToMarket",
+      "setAlgoParam(1,20)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 518,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "submitToMarket",
+      "reverse",
+      "performCalc",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 519,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,70)",
+      "setAlgoParam(2,10)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 520,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,15)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 521,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,60)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 522,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,80)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 523,
+    "actions": [
+      "setAlgoParam(1,90)",
+      "setAlgoParam(2,15)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 524,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,10)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 525,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,25)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 526,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,35)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 527,
+    "actions": [
+      "setAlgoParam(1,45)",
+      "setAlgoParam(2,10)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 528,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "setAlgoParam(2,5)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 529,
+    "actions": [
+      "setAlgoParam(1,75)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 530,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,20)",
+      "setAlgoParam(2,5)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 531,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 532,
+    "actions": [
+      "setAlgoParam(1,35)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 533,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,95)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 534,
+    "actions": [
+      "setAlgoParam(1,25)",
+      "submitToMarket",
+      "reverse",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 535,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,5)"
+    ]
+  },
+  {
+    "id": 536,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,80)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 537,
+    "actions": [
+      "setUp",
+      "submitToMarket",
+      "setAlgoParam(1,20)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 538,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "submitToMarket",
+      "reverse",
+      "performCalc",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 539,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,70)",
+      "setAlgoParam(2,10)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 540,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,15)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 541,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,60)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 542,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,80)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 543,
+    "actions": [
+      "setAlgoParam(1,90)",
+      "setAlgoParam(2,15)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 544,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,10)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 545,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,25)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 546,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,35)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 547,
+    "actions": [
+      "setAlgoParam(1,45)",
+      "setAlgoParam(2,10)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 548,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "setAlgoParam(2,5)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 549,
+    "actions": [
+      "setAlgoParam(1,75)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 550,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,20)",
+      "setAlgoParam(2,5)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 551,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 552,
+    "actions": [
+      "setAlgoParam(1,35)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 553,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,95)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 554,
+    "actions": [
+      "setAlgoParam(1,25)",
+      "submitToMarket",
+      "reverse",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 555,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,5)"
+    ]
+  },
+  {
+    "id": 556,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,80)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 557,
+    "actions": [
+      "setUp",
+      "submitToMarket",
+      "setAlgoParam(1,20)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 558,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "submitToMarket",
+      "reverse",
+      "performCalc",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 559,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,70)",
+      "setAlgoParam(2,10)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 560,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,15)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 561,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,60)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 562,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,80)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 563,
+    "actions": [
+      "setAlgoParam(1,90)",
+      "setAlgoParam(2,15)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 564,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,10)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 565,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,25)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 566,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,35)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 567,
+    "actions": [
+      "setAlgoParam(1,45)",
+      "setAlgoParam(2,10)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 568,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "setAlgoParam(2,5)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 569,
+    "actions": [
+      "setAlgoParam(1,75)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 570,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,20)",
+      "setAlgoParam(2,5)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 571,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 572,
+    "actions": [
+      "setAlgoParam(1,35)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 573,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,95)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 574,
+    "actions": [
+      "setAlgoParam(1,25)",
+      "submitToMarket",
+      "reverse",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 575,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,5)"
+    ]
+  },
+  {
+    "id": 576,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,80)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 577,
+    "actions": [
+      "setUp",
+      "submitToMarket",
+      "setAlgoParam(1,20)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 578,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "submitToMarket",
+      "reverse",
+      "performCalc",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 579,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,70)",
+      "setAlgoParam(2,10)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 580,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,15)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 581,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,60)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 582,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,80)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 583,
+    "actions": [
+      "setAlgoParam(1,90)",
+      "setAlgoParam(2,15)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 584,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,10)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 585,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,25)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 586,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,35)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 587,
+    "actions": [
+      "setAlgoParam(1,45)",
+      "setAlgoParam(2,10)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 588,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "setAlgoParam(2,5)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 589,
+    "actions": [
+      "setAlgoParam(1,75)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 590,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,20)",
+      "setAlgoParam(2,5)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 591,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 592,
+    "actions": [
+      "setAlgoParam(1,35)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 593,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,95)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 594,
+    "actions": [
+      "setAlgoParam(1,25)",
+      "submitToMarket",
+      "reverse",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 595,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,5)"
+    ]
+  },
+  {
+    "id": 596,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,80)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 597,
+    "actions": [
+      "setUp",
+      "submitToMarket",
+      "setAlgoParam(1,20)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 598,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "submitToMarket",
+      "reverse",
+      "performCalc",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 599,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,70)",
+      "setAlgoParam(2,10)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 600,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,15)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 601,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,60)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 602,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,80)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 603,
+    "actions": [
+      "setAlgoParam(1,90)",
+      "setAlgoParam(2,15)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 604,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,10)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 605,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,25)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 606,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,35)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 607,
+    "actions": [
+      "setAlgoParam(1,45)",
+      "setAlgoParam(2,10)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 608,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "setAlgoParam(2,5)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 609,
+    "actions": [
+      "setAlgoParam(1,75)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 610,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,20)",
+      "setAlgoParam(2,5)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 611,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 612,
+    "actions": [
+      "setAlgoParam(1,35)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 613,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,95)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 614,
+    "actions": [
+      "setAlgoParam(1,25)",
+      "submitToMarket",
+      "reverse",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 615,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,5)"
+    ]
+  },
+  {
+    "id": 616,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,80)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 617,
+    "actions": [
+      "setUp",
+      "submitToMarket",
+      "setAlgoParam(1,20)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 618,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "submitToMarket",
+      "reverse",
+      "performCalc",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 619,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,70)",
+      "setAlgoParam(2,10)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 620,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,15)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 621,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,60)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 622,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,80)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 623,
+    "actions": [
+      "setAlgoParam(1,90)",
+      "setAlgoParam(2,15)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 624,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,10)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 625,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,25)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 626,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,35)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 627,
+    "actions": [
+      "setAlgoParam(1,45)",
+      "setAlgoParam(2,10)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 628,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "setAlgoParam(2,5)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 629,
+    "actions": [
+      "setAlgoParam(1,75)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 630,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,20)",
+      "setAlgoParam(2,5)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 631,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 632,
+    "actions": [
+      "setAlgoParam(1,35)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 633,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,95)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 634,
+    "actions": [
+      "setAlgoParam(1,25)",
+      "submitToMarket",
+      "reverse",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 635,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,5)"
+    ]
+  },
+  {
+    "id": 636,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,80)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 637,
+    "actions": [
+      "setUp",
+      "submitToMarket",
+      "setAlgoParam(1,20)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 638,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "submitToMarket",
+      "reverse",
+      "performCalc",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 639,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,70)",
+      "setAlgoParam(2,10)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 640,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,15)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 641,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,60)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 642,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,80)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 643,
+    "actions": [
+      "setAlgoParam(1,90)",
+      "setAlgoParam(2,15)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 644,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,10)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 645,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,25)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 646,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,35)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 647,
+    "actions": [
+      "setAlgoParam(1,45)",
+      "setAlgoParam(2,10)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 648,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "setAlgoParam(2,5)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 649,
+    "actions": [
+      "setAlgoParam(1,75)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 650,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,20)",
+      "setAlgoParam(2,5)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 651,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 652,
+    "actions": [
+      "setAlgoParam(1,35)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 653,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,95)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 654,
+    "actions": [
+      "setAlgoParam(1,25)",
+      "submitToMarket",
+      "reverse",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 655,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,5)"
+    ]
+  },
+  {
+    "id": 656,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,80)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 657,
+    "actions": [
+      "setUp",
+      "submitToMarket",
+      "setAlgoParam(1,20)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 658,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "submitToMarket",
+      "reverse",
+      "performCalc",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 659,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,70)",
+      "setAlgoParam(2,10)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 660,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,15)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 661,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,60)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 662,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,80)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 663,
+    "actions": [
+      "setAlgoParam(1,90)",
+      "setAlgoParam(2,15)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 664,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,10)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 665,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,25)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 666,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,35)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 667,
+    "actions": [
+      "setAlgoParam(1,45)",
+      "setAlgoParam(2,10)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 668,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "setAlgoParam(2,5)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 669,
+    "actions": [
+      "setAlgoParam(1,75)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 670,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,20)",
+      "setAlgoParam(2,5)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 671,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 672,
+    "actions": [
+      "setAlgoParam(1,35)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 673,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,95)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 674,
+    "actions": [
+      "setAlgoParam(1,25)",
+      "submitToMarket",
+      "reverse",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 675,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,5)"
+    ]
+  },
+  {
+    "id": 676,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,80)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 677,
+    "actions": [
+      "setUp",
+      "submitToMarket",
+      "setAlgoParam(1,20)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 678,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "submitToMarket",
+      "reverse",
+      "performCalc",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 679,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,70)",
+      "setAlgoParam(2,10)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 680,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,15)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 681,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,60)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 682,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,80)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 683,
+    "actions": [
+      "setAlgoParam(1,90)",
+      "setAlgoParam(2,15)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 684,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,10)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 685,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,25)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 686,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,35)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 687,
+    "actions": [
+      "setAlgoParam(1,45)",
+      "setAlgoParam(2,10)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 688,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "setAlgoParam(2,5)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 689,
+    "actions": [
+      "setAlgoParam(1,75)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 690,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,20)",
+      "setAlgoParam(2,5)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 691,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 692,
+    "actions": [
+      "setAlgoParam(1,35)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 693,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,95)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 694,
+    "actions": [
+      "setAlgoParam(1,25)",
+      "submitToMarket",
+      "reverse",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 695,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,5)"
+    ]
+  },
+  {
+    "id": 696,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,80)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 697,
+    "actions": [
+      "setUp",
+      "submitToMarket",
+      "setAlgoParam(1,20)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 698,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "submitToMarket",
+      "reverse",
+      "performCalc",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 699,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,70)",
+      "setAlgoParam(2,10)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 700,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,15)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 701,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,60)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 702,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,80)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 703,
+    "actions": [
+      "setAlgoParam(1,90)",
+      "setAlgoParam(2,15)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 704,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,10)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 705,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,25)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 706,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,35)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 707,
+    "actions": [
+      "setAlgoParam(1,45)",
+      "setAlgoParam(2,10)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 708,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "setAlgoParam(2,5)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 709,
+    "actions": [
+      "setAlgoParam(1,75)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 710,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,20)",
+      "setAlgoParam(2,5)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 711,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 712,
+    "actions": [
+      "setAlgoParam(1,35)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 713,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,95)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 714,
+    "actions": [
+      "setAlgoParam(1,25)",
+      "submitToMarket",
+      "reverse",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 715,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,5)"
+    ]
+  },
+  {
+    "id": 716,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,80)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 717,
+    "actions": [
+      "setUp",
+      "submitToMarket",
+      "setAlgoParam(1,20)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 718,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "submitToMarket",
+      "reverse",
+      "performCalc",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 719,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,70)",
+      "setAlgoParam(2,10)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 720,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,15)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 721,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,60)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 722,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,80)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 723,
+    "actions": [
+      "setAlgoParam(1,90)",
+      "setAlgoParam(2,15)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 724,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,10)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 725,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,25)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 726,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,35)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 727,
+    "actions": [
+      "setAlgoParam(1,45)",
+      "setAlgoParam(2,10)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 728,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "setAlgoParam(2,5)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 729,
+    "actions": [
+      "setAlgoParam(1,75)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 730,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,20)",
+      "setAlgoParam(2,5)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 731,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 732,
+    "actions": [
+      "setAlgoParam(1,35)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 733,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,95)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 734,
+    "actions": [
+      "setAlgoParam(1,25)",
+      "submitToMarket",
+      "reverse",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 735,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,5)"
+    ]
+  },
+  {
+    "id": 736,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,80)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 737,
+    "actions": [
+      "setUp",
+      "submitToMarket",
+      "setAlgoParam(1,20)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 738,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "submitToMarket",
+      "reverse",
+      "performCalc",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 739,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,70)",
+      "setAlgoParam(2,10)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 740,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,15)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 741,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,60)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 742,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,80)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 743,
+    "actions": [
+      "setAlgoParam(1,90)",
+      "setAlgoParam(2,15)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 744,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,10)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 745,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,25)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 746,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,35)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 747,
+    "actions": [
+      "setAlgoParam(1,45)",
+      "setAlgoParam(2,10)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 748,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "setAlgoParam(2,5)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 749,
+    "actions": [
+      "setAlgoParam(1,75)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 750,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,20)",
+      "setAlgoParam(2,5)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 751,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 752,
+    "actions": [
+      "setAlgoParam(1,35)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 753,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,95)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 754,
+    "actions": [
+      "setAlgoParam(1,25)",
+      "submitToMarket",
+      "reverse",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 755,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,5)"
+    ]
+  },
+  {
+    "id": 756,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,80)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 757,
+    "actions": [
+      "setUp",
+      "submitToMarket",
+      "setAlgoParam(1,20)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 758,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "submitToMarket",
+      "reverse",
+      "performCalc",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 759,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,70)",
+      "setAlgoParam(2,10)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 760,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,15)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 761,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,60)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 762,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,80)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 763,
+    "actions": [
+      "setAlgoParam(1,90)",
+      "setAlgoParam(2,15)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 764,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,10)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 765,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,25)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 766,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,35)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 767,
+    "actions": [
+      "setAlgoParam(1,45)",
+      "setAlgoParam(2,10)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 768,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "setAlgoParam(2,5)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 769,
+    "actions": [
+      "setAlgoParam(1,75)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 770,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,20)",
+      "setAlgoParam(2,5)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 771,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 772,
+    "actions": [
+      "setAlgoParam(1,35)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 773,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,95)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 774,
+    "actions": [
+      "setAlgoParam(1,25)",
+      "submitToMarket",
+      "reverse",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 775,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,5)"
+    ]
+  },
+  {
+    "id": 776,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,80)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 777,
+    "actions": [
+      "setUp",
+      "submitToMarket",
+      "setAlgoParam(1,20)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 778,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "submitToMarket",
+      "reverse",
+      "performCalc",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 779,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,70)",
+      "setAlgoParam(2,10)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 780,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,15)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 781,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,60)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 782,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,80)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 783,
+    "actions": [
+      "setAlgoParam(1,90)",
+      "setAlgoParam(2,15)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 784,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,10)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 785,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,25)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 786,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,35)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 787,
+    "actions": [
+      "setAlgoParam(1,45)",
+      "setAlgoParam(2,10)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 788,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "setAlgoParam(2,5)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 789,
+    "actions": [
+      "setAlgoParam(1,75)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 790,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,20)",
+      "setAlgoParam(2,5)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 791,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 792,
+    "actions": [
+      "setAlgoParam(1,35)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 793,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,95)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 794,
+    "actions": [
+      "setAlgoParam(1,25)",
+      "submitToMarket",
+      "reverse",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 795,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,5)"
+    ]
+  },
+  {
+    "id": 796,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,80)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 797,
+    "actions": [
+      "setUp",
+      "submitToMarket",
+      "setAlgoParam(1,20)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 798,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "submitToMarket",
+      "reverse",
+      "performCalc",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 799,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,70)",
+      "setAlgoParam(2,10)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 800,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,15)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 801,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,60)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 802,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,80)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 803,
+    "actions": [
+      "setAlgoParam(1,90)",
+      "setAlgoParam(2,15)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 804,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,10)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 805,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,25)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 806,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,35)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 807,
+    "actions": [
+      "setAlgoParam(1,45)",
+      "setAlgoParam(2,10)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 808,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "setAlgoParam(2,5)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 809,
+    "actions": [
+      "setAlgoParam(1,75)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 810,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,20)",
+      "setAlgoParam(2,5)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 811,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 812,
+    "actions": [
+      "setAlgoParam(1,35)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 813,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,95)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 814,
+    "actions": [
+      "setAlgoParam(1,25)",
+      "submitToMarket",
+      "reverse",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 815,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,5)"
+    ]
+  },
+  {
+    "id": 816,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,80)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 817,
+    "actions": [
+      "setUp",
+      "submitToMarket",
+      "setAlgoParam(1,20)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 818,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "submitToMarket",
+      "reverse",
+      "performCalc",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 819,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,70)",
+      "setAlgoParam(2,10)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 820,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,15)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 821,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,60)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 822,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,80)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 823,
+    "actions": [
+      "setAlgoParam(1,90)",
+      "setAlgoParam(2,15)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 824,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,10)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 825,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,25)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 826,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,35)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 827,
+    "actions": [
+      "setAlgoParam(1,45)",
+      "setAlgoParam(2,10)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 828,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "setAlgoParam(2,5)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 829,
+    "actions": [
+      "setAlgoParam(1,75)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 830,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,20)",
+      "setAlgoParam(2,5)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 831,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 832,
+    "actions": [
+      "setAlgoParam(1,35)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 833,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,95)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 834,
+    "actions": [
+      "setAlgoParam(1,25)",
+      "submitToMarket",
+      "reverse",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 835,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,5)"
+    ]
+  },
+  {
+    "id": 836,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,80)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 837,
+    "actions": [
+      "setUp",
+      "submitToMarket",
+      "setAlgoParam(1,20)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 838,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "submitToMarket",
+      "reverse",
+      "performCalc",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 839,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,70)",
+      "setAlgoParam(2,10)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 840,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,15)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 841,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,60)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 842,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,80)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 843,
+    "actions": [
+      "setAlgoParam(1,90)",
+      "setAlgoParam(2,15)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 844,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,10)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 845,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,25)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 846,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,35)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 847,
+    "actions": [
+      "setAlgoParam(1,45)",
+      "setAlgoParam(2,10)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 848,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "setAlgoParam(2,5)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 849,
+    "actions": [
+      "setAlgoParam(1,75)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 850,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,20)",
+      "setAlgoParam(2,5)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 851,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 852,
+    "actions": [
+      "setAlgoParam(1,35)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 853,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,95)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 854,
+    "actions": [
+      "setAlgoParam(1,25)",
+      "submitToMarket",
+      "reverse",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 855,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,5)"
+    ]
+  },
+  {
+    "id": 856,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,80)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 857,
+    "actions": [
+      "setUp",
+      "submitToMarket",
+      "setAlgoParam(1,20)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 858,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "submitToMarket",
+      "reverse",
+      "performCalc",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 859,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,70)",
+      "setAlgoParam(2,10)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 860,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,15)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 861,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,60)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 862,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,80)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 863,
+    "actions": [
+      "setAlgoParam(1,90)",
+      "setAlgoParam(2,15)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 864,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,10)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 865,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,25)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 866,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,35)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 867,
+    "actions": [
+      "setAlgoParam(1,45)",
+      "setAlgoParam(2,10)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 868,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "setAlgoParam(2,5)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 869,
+    "actions": [
+      "setAlgoParam(1,75)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 870,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,20)",
+      "setAlgoParam(2,5)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 871,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 872,
+    "actions": [
+      "setAlgoParam(1,35)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 873,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,95)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 874,
+    "actions": [
+      "setAlgoParam(1,25)",
+      "submitToMarket",
+      "reverse",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 875,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,5)"
+    ]
+  },
+  {
+    "id": 876,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,80)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 877,
+    "actions": [
+      "setUp",
+      "submitToMarket",
+      "setAlgoParam(1,20)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 878,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "submitToMarket",
+      "reverse",
+      "performCalc",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 879,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,70)",
+      "setAlgoParam(2,10)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 880,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,15)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 881,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,60)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 882,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,80)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 883,
+    "actions": [
+      "setAlgoParam(1,90)",
+      "setAlgoParam(2,15)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 884,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,10)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 885,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,25)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 886,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,35)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 887,
+    "actions": [
+      "setAlgoParam(1,45)",
+      "setAlgoParam(2,10)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 888,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "setAlgoParam(2,5)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 889,
+    "actions": [
+      "setAlgoParam(1,75)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 890,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,20)",
+      "setAlgoParam(2,5)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 891,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 892,
+    "actions": [
+      "setAlgoParam(1,35)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 893,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,95)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 894,
+    "actions": [
+      "setAlgoParam(1,25)",
+      "submitToMarket",
+      "reverse",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 895,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,5)"
+    ]
+  },
+  {
+    "id": 896,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,80)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 897,
+    "actions": [
+      "setUp",
+      "submitToMarket",
+      "setAlgoParam(1,20)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 898,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "submitToMarket",
+      "reverse",
+      "performCalc",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 899,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,70)",
+      "setAlgoParam(2,10)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 900,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,15)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 901,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,60)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 902,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,80)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 903,
+    "actions": [
+      "setAlgoParam(1,90)",
+      "setAlgoParam(2,15)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 904,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,10)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 905,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,25)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 906,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,35)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 907,
+    "actions": [
+      "setAlgoParam(1,45)",
+      "setAlgoParam(2,10)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 908,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "setAlgoParam(2,5)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 909,
+    "actions": [
+      "setAlgoParam(1,75)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 910,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,20)",
+      "setAlgoParam(2,5)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 911,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 912,
+    "actions": [
+      "setAlgoParam(1,35)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 913,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,95)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 914,
+    "actions": [
+      "setAlgoParam(1,25)",
+      "submitToMarket",
+      "reverse",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 915,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,5)"
+    ]
+  },
+  {
+    "id": 916,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,80)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 917,
+    "actions": [
+      "setUp",
+      "submitToMarket",
+      "setAlgoParam(1,20)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 918,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "submitToMarket",
+      "reverse",
+      "performCalc",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 919,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,70)",
+      "setAlgoParam(2,10)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 920,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,15)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 921,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,60)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 922,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,80)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 923,
+    "actions": [
+      "setAlgoParam(1,90)",
+      "setAlgoParam(2,15)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 924,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,10)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 925,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,25)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 926,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,35)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 927,
+    "actions": [
+      "setAlgoParam(1,45)",
+      "setAlgoParam(2,10)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 928,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "setAlgoParam(2,5)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 929,
+    "actions": [
+      "setAlgoParam(1,75)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 930,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,20)",
+      "setAlgoParam(2,5)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 931,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 932,
+    "actions": [
+      "setAlgoParam(1,35)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 933,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,95)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 934,
+    "actions": [
+      "setAlgoParam(1,25)",
+      "submitToMarket",
+      "reverse",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 935,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,5)"
+    ]
+  },
+  {
+    "id": 936,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,80)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 937,
+    "actions": [
+      "setUp",
+      "submitToMarket",
+      "setAlgoParam(1,20)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 938,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "submitToMarket",
+      "reverse",
+      "performCalc",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 939,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,70)",
+      "setAlgoParam(2,10)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 940,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,15)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 941,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,60)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 942,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,80)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 943,
+    "actions": [
+      "setAlgoParam(1,90)",
+      "setAlgoParam(2,15)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 944,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,10)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 945,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,25)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 946,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,35)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 947,
+    "actions": [
+      "setAlgoParam(1,45)",
+      "setAlgoParam(2,10)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 948,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "setAlgoParam(2,5)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 949,
+    "actions": [
+      "setAlgoParam(1,75)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 950,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,20)",
+      "setAlgoParam(2,5)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 951,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 952,
+    "actions": [
+      "setAlgoParam(1,35)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 953,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,95)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 954,
+    "actions": [
+      "setAlgoParam(1,25)",
+      "submitToMarket",
+      "reverse",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 955,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,5)"
+    ]
+  },
+  {
+    "id": 956,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,80)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 957,
+    "actions": [
+      "setUp",
+      "submitToMarket",
+      "setAlgoParam(1,20)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 958,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "submitToMarket",
+      "reverse",
+      "performCalc",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 959,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,70)",
+      "setAlgoParam(2,10)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 960,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,15)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 961,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,60)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 962,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,80)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 963,
+    "actions": [
+      "setAlgoParam(1,90)",
+      "setAlgoParam(2,15)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 964,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,10)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 965,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,25)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 966,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,35)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 967,
+    "actions": [
+      "setAlgoParam(1,45)",
+      "setAlgoParam(2,10)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 968,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "setAlgoParam(2,5)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 969,
+    "actions": [
+      "setAlgoParam(1,75)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 970,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,20)",
+      "setAlgoParam(2,5)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 971,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 972,
+    "actions": [
+      "setAlgoParam(1,35)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 973,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,95)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 974,
+    "actions": [
+      "setAlgoParam(1,25)",
+      "submitToMarket",
+      "reverse",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 975,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,5)"
+    ]
+  },
+  {
+    "id": 976,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,80)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 977,
+    "actions": [
+      "setUp",
+      "submitToMarket",
+      "setAlgoParam(1,20)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 978,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "submitToMarket",
+      "reverse",
+      "performCalc",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 979,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,70)",
+      "setAlgoParam(2,10)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 980,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,15)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 981,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,60)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 982,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,80)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 983,
+    "actions": [
+      "setAlgoParam(1,90)",
+      "setAlgoParam(2,15)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 984,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,10)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 985,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,25)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 986,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,35)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 987,
+    "actions": [
+      "setAlgoParam(1,45)",
+      "setAlgoParam(2,10)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 988,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "setAlgoParam(2,5)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 989,
+    "actions": [
+      "setAlgoParam(1,75)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 990,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,20)",
+      "setAlgoParam(2,5)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 991,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 992,
+    "actions": [
+      "setAlgoParam(1,35)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 993,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,95)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 994,
+    "actions": [
+      "setAlgoParam(1,25)",
+      "submitToMarket",
+      "reverse",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 995,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,5)"
+    ]
+  },
+  {
+    "id": 996,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,80)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 997,
+    "actions": [
+      "setUp",
+      "submitToMarket",
+      "setAlgoParam(1,20)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 998,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "submitToMarket",
+      "reverse",
+      "performCalc",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 999,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,70)",
+      "setAlgoParam(2,10)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1000,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,15)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 1001,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,60)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1002,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,80)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1003,
+    "actions": [
+      "setAlgoParam(1,90)",
+      "setAlgoParam(2,15)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1004,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,10)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1005,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,25)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1006,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,35)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1007,
+    "actions": [
+      "setAlgoParam(1,45)",
+      "setAlgoParam(2,10)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 1008,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "setAlgoParam(2,5)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 1009,
+    "actions": [
+      "setAlgoParam(1,75)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 1010,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,20)",
+      "setAlgoParam(2,5)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 1011,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1012,
+    "actions": [
+      "setAlgoParam(1,35)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 1013,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,95)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 1014,
+    "actions": [
+      "setAlgoParam(1,25)",
+      "submitToMarket",
+      "reverse",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 1015,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,5)"
+    ]
+  },
+  {
+    "id": 1016,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,80)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 1017,
+    "actions": [
+      "setUp",
+      "submitToMarket",
+      "setAlgoParam(1,20)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 1018,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "submitToMarket",
+      "reverse",
+      "performCalc",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 1019,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,70)",
+      "setAlgoParam(2,10)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1020,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,15)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 1021,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,60)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1022,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,80)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1023,
+    "actions": [
+      "setAlgoParam(1,90)",
+      "setAlgoParam(2,15)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1024,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,10)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1025,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,25)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1026,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,35)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1027,
+    "actions": [
+      "setAlgoParam(1,45)",
+      "setAlgoParam(2,10)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 1028,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "setAlgoParam(2,5)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 1029,
+    "actions": [
+      "setAlgoParam(1,75)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 1030,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,20)",
+      "setAlgoParam(2,5)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 1031,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1032,
+    "actions": [
+      "setAlgoParam(1,35)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 1033,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,95)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 1034,
+    "actions": [
+      "setAlgoParam(1,25)",
+      "submitToMarket",
+      "reverse",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 1035,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,5)"
+    ]
+  },
+  {
+    "id": 1036,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,80)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 1037,
+    "actions": [
+      "setUp",
+      "submitToMarket",
+      "setAlgoParam(1,20)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 1038,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "submitToMarket",
+      "reverse",
+      "performCalc",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 1039,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,70)",
+      "setAlgoParam(2,10)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1040,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,15)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 1041,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,60)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1042,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,80)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1043,
+    "actions": [
+      "setAlgoParam(1,90)",
+      "setAlgoParam(2,15)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1044,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,10)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1045,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,25)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1046,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,35)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1047,
+    "actions": [
+      "setAlgoParam(1,45)",
+      "setAlgoParam(2,10)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 1048,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "setAlgoParam(2,5)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 1049,
+    "actions": [
+      "setAlgoParam(1,75)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 1050,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,20)",
+      "setAlgoParam(2,5)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 1051,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1052,
+    "actions": [
+      "setAlgoParam(1,35)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 1053,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,95)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 1054,
+    "actions": [
+      "setAlgoParam(1,25)",
+      "submitToMarket",
+      "reverse",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 1055,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,5)"
+    ]
+  },
+  {
+    "id": 1056,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,80)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 1057,
+    "actions": [
+      "setUp",
+      "submitToMarket",
+      "setAlgoParam(1,20)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 1058,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "submitToMarket",
+      "reverse",
+      "performCalc",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 1059,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,70)",
+      "setAlgoParam(2,10)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1060,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,15)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 1061,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,60)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1062,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,80)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1063,
+    "actions": [
+      "setAlgoParam(1,90)",
+      "setAlgoParam(2,15)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1064,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,10)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1065,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,25)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1066,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,35)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1067,
+    "actions": [
+      "setAlgoParam(1,45)",
+      "setAlgoParam(2,10)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 1068,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "setAlgoParam(2,5)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 1069,
+    "actions": [
+      "setAlgoParam(1,75)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 1070,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,20)",
+      "setAlgoParam(2,5)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 1071,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1072,
+    "actions": [
+      "setAlgoParam(1,35)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 1073,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,95)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 1074,
+    "actions": [
+      "setAlgoParam(1,25)",
+      "submitToMarket",
+      "reverse",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 1075,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,5)"
+    ]
+  },
+  {
+    "id": 1076,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,80)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 1077,
+    "actions": [
+      "setUp",
+      "submitToMarket",
+      "setAlgoParam(1,20)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 1078,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "submitToMarket",
+      "reverse",
+      "performCalc",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 1079,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,70)",
+      "setAlgoParam(2,10)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1080,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,15)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 1081,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,60)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1082,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,80)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1083,
+    "actions": [
+      "setAlgoParam(1,90)",
+      "setAlgoParam(2,15)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1084,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,10)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1085,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,25)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1086,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,35)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1087,
+    "actions": [
+      "setAlgoParam(1,45)",
+      "setAlgoParam(2,10)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 1088,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "setAlgoParam(2,5)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 1089,
+    "actions": [
+      "setAlgoParam(1,75)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 1090,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,20)",
+      "setAlgoParam(2,5)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 1091,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1092,
+    "actions": [
+      "setAlgoParam(1,35)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 1093,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,95)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 1094,
+    "actions": [
+      "setAlgoParam(1,25)",
+      "submitToMarket",
+      "reverse",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 1095,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,5)"
+    ]
+  },
+  {
+    "id": 1096,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,80)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 1097,
+    "actions": [
+      "setUp",
+      "submitToMarket",
+      "setAlgoParam(1,20)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 1098,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "submitToMarket",
+      "reverse",
+      "performCalc",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 1099,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,70)",
+      "setAlgoParam(2,10)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1100,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,15)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 1101,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,60)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1102,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,80)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1103,
+    "actions": [
+      "setAlgoParam(1,90)",
+      "setAlgoParam(2,15)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1104,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,10)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1105,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,25)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1106,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,35)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1107,
+    "actions": [
+      "setAlgoParam(1,45)",
+      "setAlgoParam(2,10)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 1108,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "setAlgoParam(2,5)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 1109,
+    "actions": [
+      "setAlgoParam(1,75)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 1110,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,20)",
+      "setAlgoParam(2,5)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 1111,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1112,
+    "actions": [
+      "setAlgoParam(1,35)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 1113,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,95)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 1114,
+    "actions": [
+      "setAlgoParam(1,25)",
+      "submitToMarket",
+      "reverse",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 1115,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,5)"
+    ]
+  },
+  {
+    "id": 1116,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,80)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 1117,
+    "actions": [
+      "setUp",
+      "submitToMarket",
+      "setAlgoParam(1,20)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 1118,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "submitToMarket",
+      "reverse",
+      "performCalc",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 1119,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,70)",
+      "setAlgoParam(2,10)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1120,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,15)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 1121,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,60)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1122,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,80)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1123,
+    "actions": [
+      "setAlgoParam(1,90)",
+      "setAlgoParam(2,15)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1124,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,10)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1125,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,25)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1126,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,35)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1127,
+    "actions": [
+      "setAlgoParam(1,45)",
+      "setAlgoParam(2,10)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 1128,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "setAlgoParam(2,5)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 1129,
+    "actions": [
+      "setAlgoParam(1,75)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 1130,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,20)",
+      "setAlgoParam(2,5)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 1131,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1132,
+    "actions": [
+      "setAlgoParam(1,35)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 1133,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,95)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 1134,
+    "actions": [
+      "setAlgoParam(1,25)",
+      "submitToMarket",
+      "reverse",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 1135,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,5)"
+    ]
+  },
+  {
+    "id": 1136,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,80)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 1137,
+    "actions": [
+      "setUp",
+      "submitToMarket",
+      "setAlgoParam(1,20)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 1138,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "submitToMarket",
+      "reverse",
+      "performCalc",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 1139,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,70)",
+      "setAlgoParam(2,10)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1140,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,15)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 1141,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,60)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1142,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,80)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1143,
+    "actions": [
+      "setAlgoParam(1,90)",
+      "setAlgoParam(2,15)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1144,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,10)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1145,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,25)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1146,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,35)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1147,
+    "actions": [
+      "setAlgoParam(1,45)",
+      "setAlgoParam(2,10)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 1148,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "setAlgoParam(2,5)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 1149,
+    "actions": [
+      "setAlgoParam(1,75)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 1150,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,20)",
+      "setAlgoParam(2,5)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 1151,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1152,
+    "actions": [
+      "setAlgoParam(1,35)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 1153,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,95)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 1154,
+    "actions": [
+      "setAlgoParam(1,25)",
+      "submitToMarket",
+      "reverse",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 1155,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,5)"
+    ]
+  },
+  {
+    "id": 1156,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,80)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 1157,
+    "actions": [
+      "setUp",
+      "submitToMarket",
+      "setAlgoParam(1,20)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 1158,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "submitToMarket",
+      "reverse",
+      "performCalc",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 1159,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,70)",
+      "setAlgoParam(2,10)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1160,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,15)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 1161,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,60)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1162,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,80)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1163,
+    "actions": [
+      "setAlgoParam(1,90)",
+      "setAlgoParam(2,15)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1164,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,10)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1165,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,25)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1166,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,35)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1167,
+    "actions": [
+      "setAlgoParam(1,45)",
+      "setAlgoParam(2,10)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 1168,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "setAlgoParam(2,5)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 1169,
+    "actions": [
+      "setAlgoParam(1,75)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 1170,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,20)",
+      "setAlgoParam(2,5)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 1171,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1172,
+    "actions": [
+      "setAlgoParam(1,35)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 1173,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,95)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 1174,
+    "actions": [
+      "setAlgoParam(1,25)",
+      "submitToMarket",
+      "reverse",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 1175,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,5)"
+    ]
+  },
+  {
+    "id": 1176,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,80)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 1177,
+    "actions": [
+      "setUp",
+      "submitToMarket",
+      "setAlgoParam(1,20)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 1178,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "submitToMarket",
+      "reverse",
+      "performCalc",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 1179,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,70)",
+      "setAlgoParam(2,10)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1180,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,15)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 1181,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,60)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1182,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,80)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1183,
+    "actions": [
+      "setAlgoParam(1,90)",
+      "setAlgoParam(2,15)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1184,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,10)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1185,
+    "actions": [
+      "reverse",
+      "setAlgoParam(1,25)",
+      "performCalc",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1186,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,35)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1187,
+    "actions": [
+      "setAlgoParam(1,45)",
+      "setAlgoParam(2,10)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 1188,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "setAlgoParam(2,5)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 1189,
+    "actions": [
+      "setAlgoParam(1,75)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 1190,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,20)",
+      "setAlgoParam(2,5)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 1191,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "setAlgoParam(2,15)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1192,
+    "actions": [
+      "setAlgoParam(1,35)",
+      "submitToMarket",
+      "reverse"
+    ]
+  },
+  {
+    "id": 1193,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,95)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 1194,
+    "actions": [
+      "setAlgoParam(1,25)",
+      "submitToMarket",
+      "reverse",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 1195,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,65)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,5)"
+    ]
+  },
+  {
+    "id": 1196,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,80)",
+      "submitToMarket",
+      "performCalc"
+    ]
+  },
+  {
+    "id": 1197,
+    "actions": [
+      "setUp",
+      "submitToMarket",
+      "setAlgoParam(1,20)",
+      "reverse"
+    ]
+  },
+  {
+    "id": 1198,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,55)",
+      "submitToMarket",
+      "reverse",
+      "performCalc",
+      "setAlgoParam(2,10)"
+    ]
+  },
+  {
+    "id": 1199,
+    "actions": [
+      "performCalc",
+      "setAlgoParam(1,70)",
+      "setAlgoParam(2,10)",
+      "submitToMarket"
+    ]
+  },
+  {
+    "id": 1200,
+    "actions": [
+      "setUp",
+      "setAlgoParam(1,15)",
+      "submitToMarket",
+      "reverse",
+      "setAlgoParam(2,10)"
+    ]
   }
 ]
