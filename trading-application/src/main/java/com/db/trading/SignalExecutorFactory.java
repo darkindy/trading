@@ -13,22 +13,25 @@ import java.io.IOException;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+import java.util.concurrent.ConcurrentHashMap;
+import java.util.function.Supplier;
 
 @Slf4j
 @Component
 public class SignalExecutorFactory {
-    private final Map<Integer, SignalExecutor> signalExecutorSingletons = new HashMap<>();
+    private final Map<Integer, SignalExecutor> signalExecutorSingletons = new ConcurrentHashMap<>();
 
-    private final Algo algo;
+    private final Supplier<Algo> algoSupplier;
     private final ObjectMapper objectMapper;
     private final ResourceLoader resourceLoader;
     private final SignalExecutor fallbackExecutor;
 
     private final Map<Integer, SignalSpec> signalSpecs;
 
-    public SignalExecutorFactory(@Lazy Algo algo, @Lazy @Qualifier("signalFallbackExecutor") SignalExecutor fallbackExecutor,
+    public SignalExecutorFactory(@Lazy Supplier<Algo> algoSupplier,
+                                 @Lazy @Qualifier("signalFallbackExecutor") SignalExecutor fallbackExecutor,
                                  ObjectMapper objectMapper, ResourceLoader resourceLoader) {
-        this.algo = algo;
+        this.algoSupplier = algoSupplier;
         this.fallbackExecutor = fallbackExecutor;
         this.objectMapper = objectMapper;
         this.resourceLoader = resourceLoader;
@@ -36,22 +39,20 @@ public class SignalExecutorFactory {
     }
 
     public SignalExecutor getSignalExecutor(int signal) {
-        if (signalExecutorSingletons.containsKey(signal)) {
-            return signalExecutorSingletons.get(signal);
-        } else {
-            SignalExecutor singletonInstance = createSignalExecutor(signal);
-            signalExecutorSingletons.put(signal, singletonInstance);
-            return singletonInstance;
+        SignalExecutor signalExecutor = signalExecutorSingletons.computeIfAbsent(signal, this::createSignalExecutor);
+        if (signalExecutor == null) {
+            log.warn("Configuring fallback executor for unknown signal: {}", signal);
+            return fallbackExecutor;
         }
+        return signalExecutor;
     }
 
-    private SignalExecutor createSignalExecutor(int signal) {
+    protected SignalExecutor createSignalExecutor(int signal) {
         if (signalSpecs.containsKey(signal)) {
-            return new SignalSpecExecutor(signalSpecs.get(signal), algo);
+            return new SignalSpecExecutor(signalSpecs.get(signal), algoSupplier);
         }
         /* Custom-implementation signal executors can be armed here */
-        log.warn("Configuring fallback executor for unknown signal: {}", signal);
-        return fallbackExecutor;
+        return null;
     }
 
     private Map<Integer, SignalSpec> readSignalSpecsJson() {

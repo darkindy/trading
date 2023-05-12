@@ -5,6 +5,8 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.TestInstance;
+import org.junit.jupiter.api.parallel.Execution;
+import org.junit.jupiter.api.parallel.ExecutionMode;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.Arguments;
 import org.junit.jupiter.params.provider.MethodSource;
@@ -13,7 +15,9 @@ import org.mockito.Mockito;
 import org.mockito.invocation.Invocation;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
-import org.springframework.boot.test.mock.mockito.MockBean;
+import org.springframework.boot.test.context.TestConfiguration;
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Primary;
 import org.springframework.core.io.Resource;
 import org.springframework.core.io.ResourceLoader;
 
@@ -22,28 +26,43 @@ import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 import java.util.Collection;
 import java.util.List;
+import java.util.function.Supplier;
 import java.util.stream.Stream;
 
 @TestInstance(TestInstance.Lifecycle.PER_CLASS)
 @SpringBootTest
 public class SignalHandlerServiceTest {
 
-    @MockBean
-    Algo algo;
+    @Autowired
+    private ObjectMapper objectMapper;
 
     @Autowired
-    ObjectMapper objectMapper;
-
-    @Autowired
-    ResourceLoader resourceLoader;
+    private ResourceLoader resourceLoader;
 
     @Autowired
     private SignalHandlerService signalHandlerService;
 
+    @TestConfiguration
+    public static class AlgoTestConfig {
+        public static final ThreadLocal<Algo> algoMock = new ThreadLocal<>();
+
+        @Primary
+        @Bean
+        public Supplier<Algo> algoSupplier() {
+            return () -> {
+                Algo algo = Mockito.mock(Algo.class);
+                algoMock.set(algo);
+                return algo;
+            };
+        }
+    }
+
+    @Execution(ExecutionMode.CONCURRENT)
     @ParameterizedTest
     @MethodSource("signalSpecs")
     void testHandleSignalAllSpecs(int signalId, List<String> actions) throws InvocationTargetException, IllegalAccessException {
         signalHandlerService.handleSignal(signalId);
+        Algo algo = AlgoTestConfig.algoMock.get();
         InOrder orderVerifier = Mockito.inOrder(algo);
         for (String action : actions) {
             verifyMethod(orderVerifier, algo, action);
@@ -77,6 +96,7 @@ public class SignalHandlerServiceTest {
     @Test
     public void testSignal1() {
         signalHandlerService.handleSignal(1);
+        Algo algo = AlgoTestConfig.algoMock.get();
         InOrder orderVerifier = Mockito.inOrder(algo);
         orderVerifier.verify(algo).setUp();
         orderVerifier.verify(algo).setAlgoParam(1, 60);
@@ -90,6 +110,7 @@ public class SignalHandlerServiceTest {
     @Test
     public void testSignal2() {
         signalHandlerService.handleSignal(2);
+        Algo algo = AlgoTestConfig.algoMock.get();
         InOrder orderVerifier = Mockito.inOrder(algo);
         orderVerifier.verify(algo).reverse();
         orderVerifier.verify(algo).setAlgoParam(1, 80);
@@ -102,6 +123,7 @@ public class SignalHandlerServiceTest {
     @Test
     public void testSignal3() {
         signalHandlerService.handleSignal(3);
+        Algo algo = AlgoTestConfig.algoMock.get();
         InOrder orderVerifier = Mockito.inOrder(algo);
         orderVerifier.verify(algo).setAlgoParam(1, 90);
         orderVerifier.verify(algo).setAlgoParam(2, 15);
@@ -114,6 +136,7 @@ public class SignalHandlerServiceTest {
     @Test
     public void testSignalDefault() {
         signalHandlerService.handleSignal(-1);
+        Algo algo = AlgoTestConfig.algoMock.get();
         InOrder orderVerifier = Mockito.inOrder(algo);
         orderVerifier.verify(algo).cancelTrades();
         orderVerifier.verify(algo).doAlgo();

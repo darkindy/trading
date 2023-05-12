@@ -5,6 +5,7 @@ import lombok.Getter;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Objects;
+import java.util.function.Consumer;
 import java.util.function.Supplier;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -15,49 +16,52 @@ public class SignalSpecExecutor implements SignalExecutor {
     public static final Pattern actionSetAlgoParamRegex = Pattern.compile("setAlgoParam\\((\\d+),\\s*(\\d+)\\)");
 
     private final SignalSpec signalSpec;
-    private final List<Runnable> actions;
+    private final List<Consumer<Algo>> actions;
+    private final Supplier<Algo> algoSupplier;
 
-    public SignalSpecExecutor(SignalSpec signalSpec, Algo algo) {
+    public SignalSpecExecutor(SignalSpec signalSpec, Supplier<Algo> algoSupplier) {
         this.signalSpec = signalSpec;
+        this.algoSupplier = algoSupplier;
         this.actions = new ArrayList<>();
         for (String action : signalSpec.getActions()) {
             switch (action) {
-                case "doAlgo" -> actions.add(algo::doAlgo);
-                case "cancelTrades" -> actions.add(algo::cancelTrades);
-                case "reverse" -> actions.add(algo::reverse);
-                case "submitToMarket" -> actions.add(algo::submitToMarket);
-                case "performCalc" -> actions.add(algo::performCalc);
-                case "setUp" -> actions.add(algo::setUp);
+                case "doAlgo" -> actions.add(Algo::doAlgo);
+                case "cancelTrades" -> actions.add(Algo::cancelTrades);
+                case "reverse" -> actions.add(Algo::reverse);
+                case "submitToMarket" -> actions.add(Algo::submitToMarket);
+                case "performCalc" -> actions.add(Algo::performCalc);
+                case "setUp" -> actions.add(Algo::setUp);
                 default -> {
                     /* Mapping parameterized actions */
-                    List<Supplier<Runnable>> parameterizedActionMapper = List.of(
-                            () -> mapSetAlgoParamAction(action, algo));
-                    Runnable actionRunnable = parameterizedActionMapper.stream()
+                    List<Supplier<Consumer<Algo>>> parameterizedActionMapper = List.of(
+                            () -> mapSetAlgoParamAction(action));
+                    Consumer<Algo> actionLogic = parameterizedActionMapper.stream()
                             .map(Supplier::get)
                             .filter(Objects::nonNull)
                             .findAny()
                             .orElseThrow(() -> new IllegalStateException("Invalid action in signal " + signalSpec.getId() + " spec: " + action));
-                    actions.add(actionRunnable);
+                    actions.add(actionLogic);
                 }
             }
         }
-        actions.add(algo::doAlgo);
+        actions.add(Algo::doAlgo);
     }
 
-    private Runnable mapSetAlgoParamAction(String action, Algo algo) {
+    private Consumer<Algo> mapSetAlgoParamAction(String action) {
         Matcher matcher = actionSetAlgoParamRegex.matcher(action);
         if (matcher.matches()) {
             String param1 = matcher.group(1);
             String param2 = matcher.group(2);
-            return (() -> algo.setAlgoParam(Integer.parseInt(param1), Integer.parseInt(param2)));
+            return (algo -> algo.setAlgoParam(Integer.parseInt(param1), Integer.parseInt(param2)));
         }
         return null;
     }
 
     @Override
     public void execute() {
-        for (Runnable action : actions) {
-            action.run();
+        Algo algo = algoSupplier.get();
+        for (Consumer<Algo> action : actions) {
+            action.accept(algo);
         }
     }
 }
