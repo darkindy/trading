@@ -20,7 +20,7 @@ To get started with the Trading Application, follow these steps:
 
 1. Clone the repository from GitHub.
 2. Open the project in your preferred IDE.
-3. Run `mvn clean install` to build the application.
+3. Run `./mvnw clean install` to build the application.
 4. Run the application with `java -jar trading-application/target/trading-application-0.0.1-SNAPSHOT.jar`.
 5. The application should now be running and ready to receive signals.
 
