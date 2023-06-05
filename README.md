@@ -5,6 +5,9 @@ Algorithm library containing the SignalHandler and Algo classes is provided and 
 project is to implement the new signal specifications given in the form of JIRA tickets and release them to production
 as quickly as possible.
 
+## Build Status
+![example workflow](https://github.com/darkindy/trading/actions/workflows/maven.yml/badge.svg)
+
 ## Requirements
 
 The code for the Trading Application needed to be modified to make it easier to understand, maintain, and test. The
